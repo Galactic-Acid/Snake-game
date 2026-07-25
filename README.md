@@ -103,7 +103,7 @@
 
 All resources and tutorials utilized during the development of this project:
 * **2D Graphics in Java:** [YouTube Video: Java 2D canvas graphics](https://www.youtube.com/watch?v=KcEvHq8Pqs0&t=426ss)
-* **Java MouseListener Integration:** [YouTube Video:Java MouseListener](https://www.youtube.com/watch?v=jptf1Wd_omw)
+* **Java MouseListener Integration:** [YouTube Video: Java MouseListener](https://www.youtube.com/watch?v=jptf1Wd_omw)
 * **GUI Reset Button Implementation:** [YouTube Video: Java - reset button for your game](https://www.youtube.com/watch?v=cA1GvZ5Y3-U)
 * **Invisible/Clickable JButton Tricks:** [Stack Overflow Discussion](https://stackoverflow.com/questions/5654208/making-a-jbutton-invisible-but-clickable)
 
